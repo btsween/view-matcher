@@ -1,4 +1,3 @@
-File name: matcher.py
 Author: Bryan Sweeney
 
 The purpose of this project is to allow a user to find matching views from json for user
