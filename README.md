@@ -6,12 +6,15 @@ Use the rules below when providing input:
 
 For a class, simply enter the name
   example: Input
+  
 For an identifier, start with a #
    example: #container
+   
 For a className, start with a .
   example: .container
 
 Multiple selectors can be used at the same time
+
 To do so, seperate selectors by a space
   example Input #container
 
