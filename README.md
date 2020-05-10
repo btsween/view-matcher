@@ -9,13 +9,17 @@ Use the rules below when providing input:
 ## classes
 
 For a class, simply enter the name
+
   example: `Input`
 
 ## identifiers
+
 For an identifier, start with a #
+
    example: `#container`
 
 ## classNames
+
 For a className, start with a .
 
   example: `.container`
@@ -26,5 +30,5 @@ Multiple selectors can be used at the same time
 
 To do so, just seperate selectors by a space
 
-  `example Input #container`
+  example: `Input #container`
 
